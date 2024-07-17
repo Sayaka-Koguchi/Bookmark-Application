@@ -11,6 +11,7 @@
 ## ③DEMO
 
 デプロイしている場合は URL を記入（任意）
+http://localhost/phpkadai02/index.php
 
 ## ④ 作ったアプリケーション用の ID または Password がある場合
 
